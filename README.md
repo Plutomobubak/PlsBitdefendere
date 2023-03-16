@@ -1,9 +1,9 @@
 # PlsBitdefendere 
 - Název složky je kvůli bitdefenderu, který aplikaci bezdůvodně blokoval dokud se složka takhle nejmenovala
-#Stažení
+##Stažení
 - v pravém rohu průzkumníku klikněte na tlačítko "Code", a ve výběru zvolte "Download Zip".
 Počkejte na dokončení stahování +-70mb, extrahuje .zip a spusťte "hmm.exe". Windows může zobrazit dialogové okno o neznámém vydavateli(já), v tomto okně klikněte na "další informace" a poté "přesto spustit".
-#Ovládání
+##Ovládání
  - Na začátku stiskněte tlačítko "load", čímž načtete základ naučené neuronové sítě.
 Kreslení - levé tlačítko
 Smazání - pravé tlačítko
